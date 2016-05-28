@@ -1,0 +1,14 @@
+layout_spectrum: 0.7164286
+typography_spectrum: 1
+color:
+  saturation: 0.6648745
+  lightness: 0.147311
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#955A0E'
+    - '#707070'
+    - '#B28556'
+    - '#CFB497'
+  rhythmicContrast: 0.8800644
+name: Afc law
